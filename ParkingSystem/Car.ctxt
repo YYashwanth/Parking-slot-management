@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Car()
+comment0.text=\r\n\ The\ constructor\ initialises\ the\ above\ described\ variables.\r\n\ \r\n
+comment1.params=name\ regnum\ expected
+comment1.target=Car(java.lang.String,\ java.lang.String,\ java.time.LocalDateTime)
+comment1.text=\r\n\ The\ following\ constructor\ initialises\ the\ variables\ of\ the\ class\r\n\ @param\ name\ It\ takes\ in\ a\ parameter\ of\ type\ String\ and\ initialises\ ownername.\r\n\ @param\ regnum\ It\ takes\ in\ a\ parameter\ of\ type\ String\ and\ initialises\ registration\ number.\r\n\ @param\ expected\ it\ takes\ in\ a\ parameter\ of\ type\ LocalDateTime\ and\ initialises\ expected\ collection\ date.\r\n\ \r\n
+comment2.params=expected
+comment2.target=void\ expectedCollection(java.time.LocalDateTime)
+comment2.text=\r\n\ The\ following\ method\ assigns\ the\ expected\ collection\ time\ of\ the\ car.\r\n\ @param\ expected\ it\ takes\ in\ a\ parameter\ of\ type\ LocalDateTime\ and\ initialises\ expected\ collection\ date.\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getRegNum()
+comment3.text=\r\n\ The\ following\ method\ gets\ the\ registration\ number\ of\ the\ car\r\n\ \r\n\ @return\ String\ it\ returns\ the\ registration\ number\ of\ the\ car.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getOwner()
+comment4.text=\r\n\ The\ following\ method\ returns\ the\ owner's\ name\ of\ the\ car.\r\n\ \r\n\ @return\ String\ it\ returns\ the\ owner's\ name\ of\ the\ car.\r\n
+comment5.params=
+comment5.target=long\ timeParked()
+comment5.text=\r\n\ The\ following\ method\ returns\ the\ total\ time\ parked\ in\ the\ parking\ slot.\r\n\ \r\n\ @return\ long\ the\ total\ time\ a\ car\ has\ been\ in\ the\ parking\ spot.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ The\ following\ method\ returns\ the\ variables\ of\ the\ class.\r\n\ \r\n\ @return\ String\ outputs\ the\ variables\ as\ a\ string.\r\n
+numComments=7
